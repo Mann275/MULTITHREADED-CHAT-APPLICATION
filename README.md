@@ -58,9 +58,11 @@ java ChatClient
 ## OUTPUT
 
 1.
-   ![Server and Client Connected](https://github.com/user-attachments/assets/7f14376c-205c-44c4-bbf0-4e97e66bb2c2)  
+
+![Server and Client Connected](https://github.com/user-attachments/assets/7f14376c-205c-44c4-bbf0-4e97e66bb2c2)  
 2.
-   ![Message Broadcast](https://github.com/user-attachments/assets/19b871c7-80da-418f-80f3-f3ad7e8b262d)
+
+![Message Broadcast](https://github.com/user-attachments/assets/19b871c7-80da-418f-80f3-f3ad7e8b262d)
 
 ---
 
